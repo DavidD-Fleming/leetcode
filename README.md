@@ -1,5 +1,1 @@
-.vs/
-*.exe
-bin/
-obj/
-*.sln
+###David's Leetcode Solutions
